@@ -1,0 +1,114 @@
+#top_block {
+	position: relative;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 50%;
+	width: 100%;
+	background: green;
+	border-radius: 10px;
+}
+
+#small_block {
+	border: solid black 1px;
+	display: inline-block;
+	margin: auto;
+	width: 33.13%;
+	height: 87%;
+	margin-top: 2%;
+	border-radius: 5%;
+}
+
+#bottom_block {
+	border: solid black 1px;
+	margin: auto;
+	height: 40%;
+	width: 100%;
+	background: yellow;
+}
+
+#image {
+	width: 100%;
+	height: 50%;
+	margin-top: 10%;
+}
+
+#question {
+	display: inline-block;
+	margin: 3px;
+	height: 77%;
+	width: 45%;
+	float: left;
+	background: red;
+	padding: 2%;
+	border: solid black 1px;
+	border-radius: 5%;
+}
+
+#answer {
+	display: inline-block;
+	margin: 3px;
+	height: 77%;
+	width: 45%;
+	float: right;
+	background: blue;
+	padding: 2%;
+	border: solid black 1px;
+	border-radius: 5%;
+}
+
+#item {
+	border: solid black 1px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	height: 21%;
+}
+
+.left {
+	float: left;
+	background: lime;
+	font-style: italic;
+	text-align: center;
+}
+
+.right {
+	float: right;
+	background: orange;
+	text-align: center;
+}
+
+.center {
+	margin-left: 10%;
+	background: grey;
+}
+
+body {
+	background-color: rgba(0, 0, 255, 0.3);
+}
+
+h1 {
+	width: 100%;
+	height: auto;
+	background: pink;
+	border-radius: 10px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	margin: auto;
+}
+
+a {
+	color: green;
+	text-decoration: none;
+	background: white;
+}
+
+ul {
+	list-style-type: arabic-indic;
+}
+
+lable {
+	font-style: italic;
+}

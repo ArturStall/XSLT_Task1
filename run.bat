@@ -1,0 +1,1 @@
+java -cp saxon9he.jar net.sf.saxon.Transform -t -s:test2.xml -xsl:xslt.xsl -o:result.html
